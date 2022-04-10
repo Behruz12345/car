@@ -82,3 +82,7 @@ ul{
     object-fit: cover;
     z-index: -2;
 }
+
+body{
+    background: black
+}
